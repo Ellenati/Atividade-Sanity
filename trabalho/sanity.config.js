@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'tarefa2',
 
-  projectId: 's6ppzelr',
+  projectId: 'dh2ukccy',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
